@@ -4,6 +4,7 @@
 
     入力：半径
     出力：円周
+https://github.com/eclairsameal/Level-3_Python/blob/main/L3/homework_1.py
 
 2.円面積を計算することが出来るプログラムを作る。
 入力するのは「半径」のみ、「π」は3.14で計算する。
