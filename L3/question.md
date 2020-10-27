@@ -4,7 +4,8 @@
 
     入力：半径
     出力：円周
-https://github.com/eclairsameal/Level-3_Python/blob/main/L3/homework_1.py
+    
+_[Answer - 1](https://github.com/eclairsameal/Level-3_Python/blob/main/L3/homework_1.py)_
 
 2.円面積を計算することが出来るプログラムを作る。
 入力するのは「半径」のみ、「π」は3.14で計算する。
@@ -12,7 +13,8 @@ https://github.com/eclairsameal/Level-3_Python/blob/main/L3/homework_1.py
 
     入力：半径
     出力：円面積
-    
+_[Answer - 2](https://github.com/eclairsameal/Level-3_Python/blob/main/L3/homework_2.py)_    
+
 3.体積を計算することが出来るプログラムを作る。
 入力するのは「高さ」「幅」「奥行」の３つ。
 最低限以下の部分が表示されるようにプログラムする事。
@@ -21,7 +23,7 @@ https://github.com/eclairsameal/Level-3_Python/blob/main/L3/homework_1.py
     入力：幅
     入力：奥行
     出力：体積
-    
+_[Answer - 3](https://github.com/eclairsameal/Level-3_Python/blob/main/L3/homework_3.py)_      
 
 4.「v1」「v2」のを入力できるようにする。
 平均速度「v」を計算できるようにする。
@@ -31,7 +33,8 @@ https://github.com/eclairsameal/Level-3_Python/blob/main/L3/homework_1.py
     入力：v1
     入力：v2
     出力：v
-    
+_[Answer - 4](https://github.com/eclairsameal/Level-3_Python/blob/main/L3/homework_4.py)_      
+
 5.次の公式でSとsを計算できるプログラムを作る。
 
 ![](https://i.imgur.com/mWayNHM.png)
@@ -46,3 +49,4 @@ https://github.com/eclairsameal/Level-3_Python/blob/main/L3/homework_1.py
     入力：c
     出力：S
     出力：s
+_[Answer - 5](https://github.com/eclairsameal/Level-3_Python/blob/main/L3/homework_5.py)_  
