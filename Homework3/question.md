@@ -22,6 +22,10 @@ The round: 6.28
 
 The area: 3.14
 ```
+[Code example -G](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework3/George/homework_ex.py)
+
+[Code example - F](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework3/Fenrir/Homework3_ex.py)
+
 ------
 
 ## 問1
@@ -47,6 +51,9 @@ Please input v2:4
 
 The average speed is 2.6666666666666665
 ```
+[Code example -G](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework3/George/homework_1.py)
+
+[Code example - F](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework3/Fenrir/Homework3_1.py)
 
 ## 問2
 次の公式でSとsを計算できるプログラムを作る。
@@ -84,3 +91,6 @@ The S(Area) is 2.9047375096555625
 
 The s is 4.5
 ```
+[Code example -G](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework3/George/homework_2.py)
+
+[Code example - F](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework3/Fenrir/Homework3_2.py)
