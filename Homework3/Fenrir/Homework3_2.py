@@ -32,9 +32,3 @@ S = math.sqrt(s  *(s - a) * (s - b) * (s - c))
 # output
 print("The S(Area) is ", S)
 print("The s is ", s)
-
-
-
-
-
-
