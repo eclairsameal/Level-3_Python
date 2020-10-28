@@ -28,9 +28,9 @@
 |299   478  |
 ```
 
-[Code example -G](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework4/George/homework_ex.py)
+[Code example - F](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework4/Fenrir/Homework4_1.py)
 
-[Code example - F](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework4/Fenrir/Homework4_ex.py)
+[Code example - F(use List)](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework4/Fenrir/Homework4_1(list).py)
 
 ## 問題 2：文字列を指定したフォーマットで表示
 
@@ -59,6 +59,11 @@ Python
 |learning   Python    |
 ```
 
+[Code example - F](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework4/Fenrir/Homework4_2.py)
+
+[Code example - F(use List)](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework4/Fenrir/Homework4_2(list).py)
+
+
 ## 問題 3：矩形面積の計算
 ### プログラム説明：
 次のプログラムを作成せよ。 2つの正数を入力し、片方は高さ、片方は幅とし、 これらを用い矩形の面積を算出する事。 表示する際は、高さ（Height）、幅（Width）、周りの長さ（Perimeter）、そして面積（Area）を表示する事。
@@ -85,6 +90,8 @@ Perimeter = 85.00
 Area = 446.50
 ```
 
+[Code example - F](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework4/Fenrir/Homework4_3.py)
+
 ## 問題 3：正n角形の面積計算
 ### プログラム説明：
 次のプログラムを作成せよ。 ユーザーに2つの正数（n、s）を入力させ、これらは「正　n　角形で辺は　s　」とする。 この数値を用い、正n角形の面積を算出する事。
@@ -109,3 +116,4 @@ Area = 446.50
 Area = 173.8234
 ```
 
+[Code example - F](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework4/Fenrir/Homework4_4.py)
