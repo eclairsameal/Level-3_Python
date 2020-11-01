@@ -136,6 +136,10 @@ Sum = 292.2
 Average = 58.5
 ```
 
+[Code example - F](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework4/Fenrir/Homework4_4.py)
+
+[Code example - F(use List)](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework4/Fenrir/Homework4_4(list).py)
+
 ## 問題 5：正n角形の面積計算
 ### プログラム説明：
 次のプログラムを作成せよ。 ユーザーに2つの正数（n、s）を入力させ、これらは「正　n　角形で辺は　s　」とする。 この数値を用い、正n角形の面積を算出する事。
@@ -161,4 +165,4 @@ Average = 58.5
 Area = 173.8234
 ```
 
-[Code example - F](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework4/Fenrir/Homework4_4.py)
+[Code example - F](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework4/Fenrir/Homework4_5.py)
