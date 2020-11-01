@@ -5,20 +5,28 @@ Created on Tue Oct 27 20:33:30 2020
 @author: Fenrir
 
 Description :
-    正n角形の面積計算
-    表示する際、小数点以下は4桁に留める事。
+    数値の表示、総計、及び平均数値を表示する事。
+    総計値と平均値、全て小数点以下は1桁に留める事。
 Variable:
-    n: 正n角形
-    s: Side length
-    area: 面積
+    Input:(a~e)
+    sum:総計
+    average:平均数
 Algorithm/Calculation:
-    Area = (n * pow(s, 2))/(4 * tan(pi/n))
+    sum = a + b + c + d + e
+    average = sum/5
 """
-import math 
+
 # input
-n = float(input())
-s = float(input())
+a = int(input("input a:"))
+b = int(input("input b:"))
+c = int(input("input c:"))
+d = int(input("input d:"))
+e = int(input("input e:"))
+
 # Calculation
-area = (n * math.pow(s, 2))/(4 * math.tan(math.pi/n))
+sum = a + b + c + d + e
+average = sum/5
+
 # output
-print('Area = {:.4f}'.format(area))
+print("Sum = {:.1f}".format(sum))
+print("Average = {:.1f}".format(average))
