@@ -18,8 +18,8 @@ Algorithm/Calculation:
     area = hw
 """
 # input
-h = float(input())
-w = float(input())
+h = float(input("Input Height:"))
+w = float(input("Input Width:"))
 # output
 print("Height = {:.2f}".format(h))
 print("Width = {:.2f}".format(w))
