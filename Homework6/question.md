@@ -132,6 +132,25 @@ Input a number: 4
 
 ![](https://i.imgur.com/oa8lLAf.png)
 
+### 入力と表示例:
+
+```
+Please input pay:15000
+money: 1500
+
+Please input pay:9000
+money: 6800
+
+Please input pay:4500
+money: 10800
+
+Please input pay:2100
+money: 12900
+
+Please input pay:9999
+money: 5801
+
+```
 
 ## 6. 某先生は最終成績を出す際に次のルールに沿って再計算を行うことがあります。
     1. 成績はA、B、Cがありこれらを平均した数値が最終成績になる
@@ -150,5 +169,24 @@ Input a number: 4
 ![](https://i.imgur.com/TexhoSr.png)
 
 
+### 入力と表示例:
 
+```
+Please input examA: 10
+Please input examB: 80
+Please input examC: 60
+58 point: Failure
+
+Please input examA: 36
+Please input examB: 60
+Please input examC: 60
+60 point: Pass
+
+
+Please input examA: 60
+Please input examB: 80
+Please input examC: 100
+80 point: Pass
+
+```
 
