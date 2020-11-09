@@ -39,6 +39,7 @@
 
 ![](https://i.imgur.com/jA9aVUO.png)
 
+[Code example - F](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework6/Fenrir/Homework4_4.py)
 
 これより以下難易度上昇
 ---
