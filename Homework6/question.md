@@ -7,6 +7,7 @@
 
 ![](https://i.imgur.com/qKZfhQj.png)
 
+[Code example - F](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework6/Fenrir/Homework4_1.py)
 
 ## 2. 次の要求を満たすプログラムを作成してください。
     1. ユーザーに月数を入力させることが出来る
@@ -28,6 +29,7 @@
 
 ![](https://i.imgur.com/gxI4hgS.png)
 
+[Code example - F](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework6/Fenrir/Homework4_3.py)
 
 ## 4. ユーザーに数字を入力させ、その数字が2や3で割り切れるかどうかを判断できるプログラムを作成してください。
     1. 2で割り切れる場合「Multiple of 2」
