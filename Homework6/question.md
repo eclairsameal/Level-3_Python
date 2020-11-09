@@ -1,11 +1,24 @@
 # Homework 6
 
 ## 1. 次の要求を満たすプログラムを作成してください。
-    1. 数字を1つ入力することが出来る
-    2. 入力した数字が奇数であれば「Odd number」と出力する
-    3. 入力した数字が偶数であれば「Even number」と出力する
 
-![](https://i.imgur.com/qKZfhQj.png)
+1. 数字を1つ入力することが出来る
+
+2. 入力した数字が奇数であれば「Odd number」と出力する
+
+3. 入力した数字が偶数であれば「Even number」と出力する
+
+![](https://i.imgur.com/qKZfhQj.png)    
+
+### 入力と表示例:
+
+```
+Input a number: 10
+10 is an Even number.
+
+Input a number: 7
+7 is an Odd number.
+```
 
 [Code example - F](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework6/Fenrir/Homework4_1.py)
 
@@ -24,22 +37,80 @@
         
 ![](https://i.imgur.com/qcLsJ4A.png)
 
+### 入力と表示例:
+
+```
+Please input month: 7
+Summer
+
+Please input month: 2
+Winter
+
+Please input month: 8
+Summer
+
+Please input month: 12
+Autumn
+
+```
+
 [Code example - F](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework6/Fenrir/Homework4_2.py)
 
 ## 3. ユーザーに数字（西暦）を入力させ、閏年であるかを判断することが出来るプログラムを作成してください。判断基準は以下の通り：
-    1. 数字が4の倍数であればその年は閏年「leap year」と表示
-    2. 但し数字が100の倍数であれば2.よりも優先されその年は平年「Normal year」と表示
-    3. 更に数字が400の倍数であれば3.よりも優先されその年は閏年「leap year」と表示
+
+1. 数字が4の倍数であればその年は閏年「leap year」と表示
+
+2. 但し数字が100の倍数であれば2.よりも優先されその年は平年「Normal year」と表示
+
+3. 更に数字が400の倍数であれば3.よりも優先されその年は閏年「leap year」と表示
 
 ![](https://i.imgur.com/gxI4hgS.png)
+
+### 入力と表示例
+
+```
+Please input year:2000
+2000 is a leap year.
+
+Please input year:1900
+1900 is a normal year.
+
+Please input year:1992
+1992 is a leap year.
+
+Please input year:1997
+1997 is a normal year
+
+```
 
 [Code example - F](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework6/Fenrir/Homework4_3.py)
 
 ## 4. ユーザーに数字を入力させ、その数字が2や3で割り切れるかどうかを判断できるプログラムを作成してください。
-    1. 2で割り切れる場合「Multiple of 2」
-    2. 3で割り切れる場合「Multiple of 3」
-    3. 2と3同時に割り切れる場合「Multiple of 2 and 3」
-    4. どちらも割り切れない場合「Not multiple of 2 and 3」
+
+1. 2で割り切れる場合「Multiple of 2」
+
+2. 3で割り切れる場合「Multiple of 3」
+
+3. 2と3同時に割り切れる場合「Multiple of 2 and 3」
+
+4. どちらも割り切れない場合「Not multiple of 2 and 3」
+
+### 入力と表示例:
+
+```
+Input a number: 6
+6 is a multiple of 2 and 3.
+
+Input a number: 7
+7 is not a multiple of 2 or 3.
+
+Input a number: 9
+9 is a multiple of 3.
+
+Input a number: 4
+4 is a multiple of 2.
+
+```
 
 ![](https://i.imgur.com/jA9aVUO.png)
 
