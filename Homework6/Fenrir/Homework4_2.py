@@ -12,9 +12,10 @@ Description :
 Variable:
     月数 : month
 Algorithm/Calculation:
+    
 """
 # if else
-month = int(input("Enter the month: "))
+month = int(input("Please input month: "))
 # 月は数字なので、数字に変換する必要があります
 if month < 4:
     print("Winter")
@@ -27,6 +28,7 @@ else:
         else:
             print("Autumn")
 
+"""
 # elif
 month = int(input("Enter the month: "))
 # 月は数字なので、数字に変換する必要があります
@@ -38,3 +40,4 @@ elif month < 10:
     print("Summer")
 else:
     print("Autumn")
+"""

@@ -13,7 +13,7 @@ Variable:
 Algorithm/Calculation:
     x % 2 ==0 - > Even(偶数)
 """
-x = int(input())
+x = int(input("Input a number: "))
 if x % 2 ==0 :
     print("{} is an Even number.".format(x))
 else :
