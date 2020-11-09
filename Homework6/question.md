@@ -150,5 +150,24 @@ Input a number: 4
 ![](https://i.imgur.com/TexhoSr.png)
 
 
+### 入力と表示例:
 
+```
+Please input examA: 10
+Please input examB: 80
+Please input examC: 60
+58 point: Failure
+
+Please input examA: 36
+Please input examB: 60
+Please input examC: 60
+60 point: Pass
+
+
+Please input examA: 60
+Please input examB: 80
+Please input examC: 100
+80 point: Pass
+
+```
 
