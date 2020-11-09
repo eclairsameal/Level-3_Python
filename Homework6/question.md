@@ -24,6 +24,7 @@
         
 ![](https://i.imgur.com/qcLsJ4A.png)
 
+[Code example - F](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework6/Fenrir/Homework4_2.py)
 
 ## 3. ユーザーに数字（西暦）を入力させ、閏年であるかを判断することが出来るプログラムを作成してください。判断基準は以下の通り：
     1. 数字が4の倍数であればその年は閏年「leap year」と表示
