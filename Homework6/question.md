@@ -155,6 +155,9 @@ Please input pay:9999
 money: 5801
 
 ```
+[Code example - G](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework6/George/HW6_05.py)
+
+[Code example - F](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework6/Fenrir/Homework4_5.py)
 
 ## 6. 某先生は最終成績を出す際に次のルールに沿って再計算を行うことがあります。
 1. 成績はA、B、Cがありこれらを平均した数値が最終成績になる
@@ -197,3 +200,6 @@ Please input examC: 100
 80 point: Pass
 
 ```
+[Code example - G](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework6/George/HW6_06.py)
+
+[Code example - F](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework6/Fenrir/Homework4_6.py)
