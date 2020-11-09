@@ -11,17 +11,17 @@ Description :
         補足：尚XXのポイントの小数点は切り上げて表示させること
 Variable:
     Input: 
-        - Aは授業態度成績(A is class attitude grade)
-        - Bは抜き打ちテストの平均成績(B is the average test score)
-        - Cは期末試験の成績(C is the final exam)
+        - Aは授業態度成績
+        - Bは抜き打ちテストの平均成績
+        - Cは期末試験の成績
 Algorithm/Calculation:
  - 新たな成績A = (math.sqrt(旧成績A))*10    
 """
 import math
 
-a = int(input("class attitude grade:"))
-b = int(input("average test score:"))
-c = int(input("final exam:"))
+a = int(input("Please input examA:"))
+b = int(input("Please input examB:"))
+c = int(input("Please input examC:"))
 # original -> 15000
 avg = ((a + b + c) / 3)
 # Calculate average
