@@ -100,12 +100,14 @@ Please input year:1997
 1. 入力は身長（cm）と体重(kg)
 
 2. 出力時は、「Your BMI is ○○.」、そして「comment: ××」と表示する（○○→BMI数値（小数点以下2桁まで計算）、××→コメントの内容）
+
 | BMI | コメント |
 | -------- | -------- |
 | 18.49以下 | Underweight |
 | 18.50〜24.99以下 | Normal weight |
 | 25.00〜29.99以下 | Overweight |
 | 30.00以上 | Obese |
+
 
 ### 入力と表示例
 
