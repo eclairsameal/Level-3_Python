@@ -25,7 +25,7 @@ Input c:6
 Invalid
 ```
 
-[Code example - F]()
+[Code example - F](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework7/Fenrir/Homework7_1.py)
 
 ## 2. 次の要求を満たすプログラムを作成してください。
 
@@ -63,7 +63,7 @@ Autumn
 
 ```
 
-[Code example - F]()
+[Code example - F](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework7/Fenrir/Homework7_2.py)
 
 ## 3. ユーザーに数字（西暦）を入力させ、閏年であるかを判断することが出来るプログラムを作成してください。判断基準は以下の通り：
 
@@ -92,7 +92,7 @@ Please input year:1997
 
 ```
 
-[Code example - F]()
+[Code example - F](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework7/Fenrir/Homework7_3.py)
 
 
 ## 4. ユーザーに身長と体重を入力させ、BMIを測定し且次の表からBMIの範囲内に記載されているコメントを入出力例を参考にしてプログラムを作成してください。
@@ -111,6 +111,7 @@ Please input year:1997
 
 ### 入力と表示例
 
+[Code example - G](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework7/George/Homework7_4.py)
 
 ## 5. ある選手が400メートル走をしようとしています。この選手は時速「Y」キロメートルで走っています。走り始めてから400メートル走り終えるまでずっと同じ速度だと仮定します。400メートルでかかる時間を結果として出力し、次の条件を満たすプログラムを作成してください。
 
@@ -123,3 +124,5 @@ Please input year:1997
 3. かかった時間が10秒以内である場合は、「Invalid」と出力する事
 
 ### 入力と表示例
+
+[Code example - G](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework7/George/Homework7_5.py)
