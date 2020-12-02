@@ -7,6 +7,7 @@
 3 6 9 12 18 21 24 27 33 36 39 42 48 51 54 57 63 66 69 72 78 81 84 87 93 96 99 
 ```
 
+[Code example - G](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework9/George/Homework9_1.py)
 
 ## 2. 
 次の条件を満たすプログラムを作成して下さい。
@@ -37,6 +38,7 @@ Please input number:0.5
 1
 
 ```
+[Code example - G](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework9/George/Homework9_2.py)
 
 ## 3. 
 次の条件を満たすプログラムを作成して下さい。
@@ -62,6 +64,8 @@ Please input number again:97
 The number 97 is a prime number.
 
 ```
+
+[Code example - G](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework9/George/Homework9_3.py)
 
 ## 4. 
 某スーパーで買い物をするとしてその会計機を作るとしましょう。商品は4種類ありそれぞれ番号で管理されています。商品番号とその値段は次の通りです。
@@ -98,6 +102,7 @@ You have to pay: 0 yen
 
 ```
 
+[Code example - G](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework9/George/Homework9_4.py)
 
 ## 5. 
 某コンビニが来客した人数を年齢に分けて数えようと思っています。分け方は次の通り：
@@ -152,3 +157,5 @@ Total customers: 8
 
 
 ```
+
+[Code example - G](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework9/George/Homework9_5.py)
