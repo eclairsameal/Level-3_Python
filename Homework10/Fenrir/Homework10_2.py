@@ -14,9 +14,10 @@ Variable:
 num1 = int(input("Please input number1:"))
 num2 = int(input("Please input number2:"))
 
-n = num1*num2 # 最初の公倍数: 2つの数字を掛ける
+n = num1*num2 
 if n > 1000:
     print("---")
 else:
-    for i in range(n, 1001, n):
-        print(i, end = " ")
+    for i in range(1, 1001):
+        if((i % num1 == 0) and (i % num2 == 0)):
+            print(i, end = " ")
