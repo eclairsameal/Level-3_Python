@@ -10,13 +10,15 @@ Description :
 Variable:
    input: n 
 """
+# 方法1: math
 n = int(input("Please input number: "))
 
 while n != 0:
     print(n % 10, end="")
     n =int(n / 10)
 
-'''    
+'''
+# 方法2: スライス(slice)
 n=input()
 print(n[::-1])
 '''  
