@@ -19,7 +19,7 @@ Variable:
 """
 n = int(input("Please input number: "))
 
-# for 
+# 方法1：多重ループ 
 for i in range(1, n+1):
     for j in range(n-i, 0, -1):
         print(" ", end = "")
@@ -28,7 +28,7 @@ for i in range(1, n+1):
     print()
      
 """  
-# string * n
+#  方法2：string * n
 print("Result:")
 for i in range(1, n+1):
     print(" "*(n-i), end="")
