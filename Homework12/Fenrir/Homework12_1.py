@@ -9,9 +9,9 @@ Description :
 
 """
 list_number = []
-while True:
+while True: # ユーザーが何回入力するかわからない
     n = int(input("input: "))
-    if n == -1:
+    if n == -1:  # 入力-1で終了
         break
     list_number.append(n)
 print("List:", list_number)
