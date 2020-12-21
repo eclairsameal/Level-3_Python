@@ -18,9 +18,8 @@ List: [5, 77, 154, 5, 9]
 len: 5
 ```
 
-[Code example - F](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework11/Fenrir/Homework11_1.py)
+[Code example - F](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework12/Fenrir/Homework12_1.py)
 
-[Code example - G](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework11/George/Homework11_1.py)
 
 ## 2. 次のプログラムを作成して下さい。
 * 乱数で１～１００の整数を10個生成し出力表示させ、その中での最大値と最小値を表示させること
@@ -34,9 +33,8 @@ MAX = 87
 MIN = 10
 ```
 
-[Code example - F](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework11/Fenrir/Homework11_2.py)
+[Code example - F](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework12/Fenrir/Homework12_2.py)
 
-[Code example - G](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework11/George/Homework11_2.py)
 
 ## 3. 次のプログラムを作成して下さい。
 乱数を8つ(範囲：1～99)生成しそれをリストに格納し、そのリストに対し新たに数値を作成、挿入、削除等が可能なものを作ること。
@@ -73,9 +71,8 @@ Please select function(機能を選択してください): 4
 End
 ```
 
-[Code example - F](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework11/Fenrir/Homework11_3.py)
+[Code example - F](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework12/Fenrir/Homework12_3.py)
 
-[Code example - G](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework11/George/Homework11_3.py)
 
 ## 4. 次のプログラムを作成して下さい。
 乱数を8つ(範囲：1～99)生成しそれをリストに格納し、ユーザーに数字を一つ入力させ、入力された数値がリストに入っているかどうかを確認出来るプログラムを作ること。
@@ -92,9 +89,8 @@ Input :100
 Number is not in the list
 ```
 
-[Code example - F](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework11/Fenrir/Homework11_4.py)
+[Code example - F](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework12/Fenrir/Homework12_4.py)
 
-[Code example - G](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework11/George/Homework11_4.py)
 
 ## 5. 次のプログラムを作成して下さい。
 乱数を8つ(範囲：1～99)生成しそれをリストに格納し、それを小さい数字から大きい数字の順に並び替えを行うこと。
@@ -110,8 +106,4 @@ Number is not in the list
 [16, 21, 42, 60, 61, 76, 88, 91]
 ```
 
-[Code example - F](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework11/Fenrir/Homework11_5.py)
-
-[Code example - G](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework11/George/Homework11_5.py)
-
-
+[Code example - F](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework12/Fenrir/Homework12_5.py)
