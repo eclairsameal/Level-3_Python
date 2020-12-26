@@ -93,3 +93,5 @@ Please input number: 135790
         *******
         ```
 [Code example - F](https://github.com/eclairsameal/Level-3_Python/blob/main/Homework11/Fenrir/Homework11_5.py)
+
+[2と3に詳細な回答](https://hackmd.io/3tDEvttvStOh80-D0sSbtw)
