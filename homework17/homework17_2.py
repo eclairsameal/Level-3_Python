@@ -21,7 +21,7 @@ def compute_1(a, b):
     else:
         min_val = b
     gcd_val = 1    
-    for i in range(2, min_val + 1):
+    for i in range(1, min_val + 1):
         if a % i == 0 and b % i == 0: # a と b の両方が割り切れる場合
             gcd_val = i        
     return gcd_val
