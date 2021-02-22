@@ -17,7 +17,6 @@ def number_str(s): # 文字列が全て数字だった場合
     for x in s_list: 
         sum_val += int(x) # 数値全てを加算するこ
     return sum_val
-    # return sum(map(int, s_list)) # *
 
 def upper_str(s): # 文字列が全て大文字である場合
     s_list = list(s) # string -> list ("ABC" = ["A", "B", "C"])
@@ -33,7 +32,6 @@ def print_str(slist): #   list -> string(["a", "1", "c", "3"] = "a1c3")
     for x in slist:
         s += x
     return s
-    # return "".join(slist) # *
     
 # ---------- main ----------
 # while True:
